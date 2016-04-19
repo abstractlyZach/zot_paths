@@ -1,0 +1,15 @@
+A B C D E F T O
+A O 2
+O B 5
+O C 4
+A B 2
+B C 1
+A F 12
+A D 7
+B D 4
+B E 3
+C E 4
+F T 3
+D T 5
+D E 1
+E T 7
